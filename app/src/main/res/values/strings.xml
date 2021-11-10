@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">ZPedometer</string>
+    <string name="shoe_picture">Shoe Picture</string>
+    <string name="today_steps">Today Steps</string>
+    <string name="zero">0</string>
+    <string name="distance_icon">Distance Icon</string>
+    <string name="calories_burnt">Calories Burnt</string>
+    <string name="today_s_burnt_calories">Today\'s Burnt Calories</string>
+    <string name="meter">Meter</string>
+    <string name="today_s_distance_covered">Today\'s Distance Covered</string>
+    <string name="more">More</string>
+    <string name="statistics">Statistics</string>
+    <string name="reset_pedometer_data">Reset Pedometer Data</string>
+    <string name="reset_statistics_button">reset statistics button</string>
 </resources>
